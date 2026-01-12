@@ -1,0 +1,15 @@
+:root {
+    --headline-font: "Archivo Black", sans-serif;
+    --body-font: "Space Grotesk", sans-serif;
+    --accent-font: "Space Mono", monospace;
+
+    --primary-color: #003566;
+    --secondary-color: #FFD60A;
+    --accent-red: #FF4800;
+    --accent-blue: #2855FF;
+    --accent-green: #06D6A0;
+    --accent-pink: #FF0090;
+
+    --font-color: #000814;
+    --paper-color: #f4f4f0;
+}
