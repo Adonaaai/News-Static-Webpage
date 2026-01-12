@@ -1,0 +1,10 @@
+# windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS code settings
+.vscode/
+
+# log files
+.log
