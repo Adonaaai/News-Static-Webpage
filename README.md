@@ -17,6 +17,11 @@ I utilized the **Neo-Brutalism** design trend, drawing inspiration from traditio
 * **Body Text:** `Space Grotesk` (for readability in paragraphs).
 * **Accents:** `Space Mono` (to highlight specific details and meta-data).
 
+### Interactivity & Motion
+To ensure a modern user experience, I implemented dynamic micro-interactions:
+* **Hover States:** cards feature high-contrast color inversions and shadow displacements to provide immediate visual feedback.
+* **Smooth Transitions:** CSS `transition` properties are used to soften the interactions, making the navigation feel fluid and responsive.
+
 ## Architecture
 To ensure maintainability, I implemented a **Modular CSS Architecture**. Instead of writing all styles in one large file, I separated them into specific modules (Global, Pages, and Partials).
 Each page utilizes its own "master" CSS file that imports all necessary dependencies. This approach keeps the project organized and ensures the corresponding HTML file remains clean with only a single `<link>` reference.
@@ -32,7 +37,7 @@ Each page utilizes its own "master" CSS file that imports all necessary dependen
 
 ```
 
-## 📄 License 
+## License 
 
 ### The Code
 This project is licensed under the **MIT License** - you are free to use the HTML and CSS architecture for your own studies.
