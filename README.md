@@ -28,7 +28,9 @@ Each page utilizes its own "master" CSS file that imports all necessary dependen
   └── pages/
       └── index/       # Home Page folder
           ├── index.css    # The Master File (Imports variables & partials)
-          └── partials/    # Specific Components (Header, Grid, Footer)```
+          └── partials/    # Specific Components (Header, Grid, Footer)
+
+```
 
 ## 📄 License 
 
